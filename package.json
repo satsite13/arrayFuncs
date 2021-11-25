@@ -1,0 +1,26 @@
+{
+  "name": "js_array",
+  "version": "0.0.1",
+  "description": "Array funcs",
+  "main": "indexer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satsite13/arrayFuncs.git"
+  },
+  "keywords": [
+    "Array",
+    "Functions",
+    "Test",
+    "Module",
+    "Node"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satsite13/arrayFuncs/issues"
+  },
+  "homepage": "https://github.com/satsite13/arrayFuncs#readme"
+}
