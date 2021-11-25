@@ -27,17 +27,3 @@ module.exports = {
    },
 
 }
-
-
-function tester(arr){
-   let res = [];
-   for(let i = 0; i<arr.length; i++){
-      if(res.indexOf(arr[i]) === -1) res.push(arr[i]);
-   }
-   res.sort((a,b) => a-b);
-   return res;
-}
-
-console.log(tester([1,111,20,21,33,4,8,22,1120,32,34]))
-
-
