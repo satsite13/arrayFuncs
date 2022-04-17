@@ -1,4 +1,4 @@
-# arrayFuncs
+# arrayFuncs is time to merge
 Saying function says array
 
 
